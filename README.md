@@ -278,7 +278,7 @@ The **ROC-AUC score** was used as the primary metric because it measures the mod
 | Random Forest | 0.621 |
 | Logistic Regression | 0.529 |
 
-### **Detailed Performance Insights for `df_3**`
+### Detailed Performance Insights for `df_3`
 
 #### **1. Gradient Boosting: The Winner**
 
